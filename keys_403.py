@@ -174,11 +174,11 @@ def main():
     
     # License URL domains to rotate through
     license_domains = [
-        'gue1-spclient.spotify.com',
-        'gae2-spclient.spotify.com',
         'gew1-spclient.spotify.com',
         'guc3-spclient.spotify.com',
         'gew4-spclient.spotify.com',
+        'gae2-spclient.spotify.com',
+        'gue1-spclient.spotify.com',
         'spclient.wg.spotify.com'
     ]
     
